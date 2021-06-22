@@ -37,11 +37,11 @@ namespace Test
 
         private void Initialize(HttpMessageHandler messageHandler)
         {
-            AppHttpClient client = new AppHttpClient(new HttpClient(messageHandler));
+            Code.HttpClientHandler client = new Code.HttpClientHandler(new HttpClient(messageHandler));
            
             var services = new ServiceCollection();
             services.AddScoped<IConsumer, Consumer>();
-            services.AddScoped((X) => (AppHttpClient)client);
+            services.AddScoped((X) => (Code.HttpClientHandler)client);
 
             IServiceProvider serviceProvider = services.BuildServiceProvider();
 

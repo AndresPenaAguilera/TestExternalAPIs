@@ -6,9 +6,9 @@ namespace Code
 {
     public class Consumer : IConsumer
     {
-        private AppHttpClient _appHttpClient;
+        private HttpClientHandler _appHttpClient;
 
-        public Consumer(AppHttpClient AppHttpClient) 
+        public Consumer(HttpClientHandler AppHttpClient) 
         {
             _appHttpClient = AppHttpClient;
         }

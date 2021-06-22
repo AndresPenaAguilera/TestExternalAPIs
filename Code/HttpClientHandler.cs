@@ -3,10 +3,10 @@ using System.Threading.Tasks;
 
 namespace Code
 {
-    public class AppHttpClient
+    public class HttpClientHandler
     {
         
-        public AppHttpClient(HttpClient httpClient)
+        public HttpClientHandler(HttpClient httpClient)
         {
             _httpClient = httpClient;
         }
