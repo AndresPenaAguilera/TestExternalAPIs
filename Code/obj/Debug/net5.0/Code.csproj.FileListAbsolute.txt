@@ -1,0 +1,12 @@
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\bin\Debug\net5.0\Code.deps.json
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\bin\Debug\net5.0\Code.dll
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\bin\Debug\net5.0\ref\Code.dll
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\bin\Debug\net5.0\Code.pdb
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\obj\Debug\net5.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\obj\Debug\net5.0\Code.AssemblyInfoInputs.cache
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\obj\Debug\net5.0\Code.AssemblyInfo.cs
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\obj\Debug\net5.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\obj\Debug\net5.0\Code.dll
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\obj\Debug\net5.0\ref\Code.dll
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\obj\Debug\net5.0\Code.pdb
+C:\Users\andres.pena\source\repos\TestExternalAPIs\Code\obj\Debug\net5.0\Code.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\bin\Debug\netcoreapp3.1\Code.deps.json
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\bin\Debug\netcoreapp3.1\Code.dll
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\bin\Debug\netcoreapp3.1\Code.pdb
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\obj\Debug\netcoreapp3.1\Code.csprojAssemblyReference.cache
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\obj\Debug\netcoreapp3.1\Code.AssemblyInfoInputs.cache
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\obj\Debug\netcoreapp3.1\Code.AssemblyInfo.cs
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\obj\Debug\netcoreapp3.1\Code.csproj.CoreCompileInputs.cache
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\obj\Debug\netcoreapp3.1\Code.dll
+C:\Users\andres.pena\Source\Repos\TestExternalAPIs\Code\obj\Debug\netcoreapp3.1\Code.pdb
